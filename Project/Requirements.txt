@@ -1,10 +1,6 @@
-tidyverse
-summarytools
-dplyr
-ggplot2
-DataExplorer
-summarytools
-reshape2
-caret
-ROSE
-glmnet
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
