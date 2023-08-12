@@ -1,2 +1,10 @@
 tidyverse
 summarytools
+dplyr
+ggplot2
+DataExplorer
+summarytools
+reshape2
+caret
+ROSE
+glmnet
